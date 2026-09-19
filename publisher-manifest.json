@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "428e1e0a68f3bc45ba05d2f9",
+  "owner": "bunoobu",
+  "repo": "page-3e9f632cf33152b39b291d4c",
+  "title": "麦当当",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3e9f632cf33152b39b291d4c",
+      "a": "麦当当",
+      "b": "机场榜单Top1",
+      "entity": "麦当当",
+      "brand": "麦当当",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "df833696754916accc368f6305463f67a66ce020139d10f8756436fee938224b",
+      "content": {
+        "primary_entity": "麦当当",
+        "keyword1": "麦当当",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对照流量与设备数量，挑选麦当当订阅并完成客户端配置。",
+          "AI_CLOSING_TITLE": "选对套餐轻松加速",
+          "AI_DESCRIPTION": "，面向需要海外网络加速的用户，提供基础版、旗舰版、团队版三档订阅，月付与年付价格明确，覆盖个人多设备、流媒体解锁、游戏专线与企业定制路由等场景。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与线路特点出发，挑选适合的订阅周期。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线，家庭或多终端用户优先考虑高阶套餐。",
+          "AI_FEATURE_TEXT_2": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，长期使用年付更划算。",
+          "AI_FEATURE_TEXT_3": "普通节点适合网页与视频，旗舰版 IPLC 专线针对游戏延迟，团队版 VIP 高带宽节点适合多人共享。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TITLE_2": "按周期看成本",
+          "AI_FEATURE_TITLE_3": "按场景挑线路",
+          "AI_GUIDE_INTRO": "先选套餐，再核对设备适配，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "麦当当提供海外加速订阅服务，按流量、设备数和线路等级划分套餐。个人可选基础版满足日常浏览，旗舰版增加专线优化与流媒体解锁，团队版面向多设备协作与高带宽需求。",
+          "AI_HERO_SUBTITLE": "麦当当多设备海外加速",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "年付方案降低月均成本",
+          "AI_HIGHLIGHT_3": "旗舰与团队版含专线优化",
+          "AI_PLANS_INTRO": "预算有限选基础版；需要流媒体与游戏加速选旗舰版；多设备团队协作选团队版。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，在基础版、旗舰版、团队版中选定订阅。",
+          "AI_STEP_TEXT_2": "确认路由器、手机或电脑的系统版本满足客户端的运行条件。",
+          "AI_STEP_TEXT_3": "下载对应客户端，依照文档导入订阅地址并启用节点。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "麦当当订阅套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。按需要同时在线的设备数量选择即可。",
+          "AI_FAQ_ANSWER_2": "套餐按周期提供固定流量：基础版 100GB、旗舰版 300GB、团队版 1000GB。超出后的处理方式请以账号内提示为准。",
+          "AI_FAQ_ANSWER_3": "订阅链接一般通过客户端从购买后提供的入口导入，具体步骤参见对应客户端的配置文档。",
+          "AI_FAQ_ANSWER_4": "年付比月付更划算：基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，分别相当于月付的约 10 个月价格。",
+          "AI_FAQ_ANSWER_5": "可以在账号内更换套餐，补差价后立即生效。具体操作可联系支持渠道确认。",
+          "AI_FAQ_INTRO": "订阅、设备、套餐与付费周期。",
+          "AI_FAQ_QUESTION_1": "同时可以在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "套餐流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "套餐可以随时更换吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b811e1d6465cd387f05b02096ab1410976f9f7f6b1918e4ca30cecd931ffad70",
+    "sitemap.xml": "264b06bc751283f1f465d53bc2ed0f4a654ee1f0f9c0f7dfde0710e5b2c80881",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "f9fe873dadaef60de56df257ae3e428114d9ea03bb1e21c517901e6654d3eb91"
+}
